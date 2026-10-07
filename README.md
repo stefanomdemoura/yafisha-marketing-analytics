@@ -38,6 +38,6 @@ Entender como usuários chegam ao produto, quando convertem, quanto valor geram 
 
 ## Dados
 
-Os datasets não são redistribuídos neste repositório. Para executar o notebook localmente, coloque os arquivos indicados em `data/`.
+Os arquivos de dados não estão incluídos neste repositório. O notebook utiliza os datasets esperados no diretório `data/`.
 
-Os outputs foram mantidos no notebook para permitir a leitura completa da análise diretamente no GitHub.
+Os resultados, tabelas e visualizações já executados foram preservados no notebook para permitir a consulta completa da análise diretamente no GitHub.
