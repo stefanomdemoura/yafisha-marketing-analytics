@@ -1,6 +1,8 @@
 # Y.Afisha — análise de marketing e economia unitária
+Projeto de business analytics voltado à eficiência de aquisição e à otimização de despesas de marketing, desenvolvido na formação de Analista de Dados da TripleTen.
 
-Projeto de business analytics voltado à eficiência de aquisição e à otimização de despesas de marketing.
+**English summary.** Business analytics project on user acquisition and marketing spend, covering DAU/WAU/MAU, sessions, cohort retention, time to first purchase, average order value, LTV, CAC and ROMI by acquisition source. Most first purchases happen on the day of the first visit, and retention after the first month stays below 10%. Source 1 delivered the best ROMI, while source 3 combined high spend with negative return. Project developed as part of TripleTen's Data Analyst program.
+
 
 ## Objetivo
 
@@ -33,7 +35,7 @@ Entender como usuários chegam ao produto, quando convertem, quanto valor geram 
 - a retenção após o primeiro mês fica abaixo de 10%;
 - a fonte 1 apresenta o melhor ROMI entre as origens analisadas;
 - a fonte 3 combina alto investimento com retorno negativo e é o principal ponto de atenção;
-- com o LTV corrigido por tamanho inicial da coorte, a média acumulada das coortes com pelo menos seis meses de observação fica próxima de 8;
+- com o LTV corrigido por tamanho inicial da coorte, a média acumulada das coortes com pelo menos seis meses de observação fica próxima de US$ 8;
 - CACs de algumas fontes superam esse valor de referência, reforçando a necessidade de reavaliar a distribuição do orçamento.
 
 ## Dados
